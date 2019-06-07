@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://burhan123:burhan123@cluster0-vew5y.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://burhan123:burhan123@cluster0-vew5y.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"valar_dohaeris"
 }
